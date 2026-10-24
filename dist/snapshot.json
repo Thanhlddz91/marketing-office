@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-24",
+  "updated": "Bản dữ liệu Windsor.ai tải ngày 24/10/2026",
+  "campaigns": [
+    {
+      "id": "120257681708840550",
+      "name": "ABABY | Arla | Tin nhắn | 9km | 100k/ngày",
+      "status": "ACTIVE",
+      "budget": 100000,
+      "spend": 0,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257351343940550",
+      "name": "QC video phân biệt ala 6hmo",
+      "status": "PAUSED",
+      "budget": 30000,
+      "spend": 10049,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257425165450550",
+      "name": "Sữa bub  superrme 8.10 - 9.11",
+      "status": "ACTIVE",
+      "budget": 80000,
+      "spend": 60192,
+      "messages": 3,
+      "purchases": 0
+    },
+    {
+      "id": "120257502179140550",
+      "name": "QC Bzu - Karuna - a2 tháng 10. 13-10 - 13-11 - tương tác",
+      "status": "ACTIVE",
+      "budget": 200000,
+      "spend": 171113,
+      "messages": 4,
+      "purchases": 0
+    },
+    {
+      "id": "120257502297730550",
+      "name": "QC sữa Bzu - Karuna - a2 tháng 10. 13-10 - 13-11 - Nhận biết",
+      "status": "ACTIVE",
+      "budget": 30000,
+      "spend": 20180,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257627063880550",
+      "name": "Ildong, Moroka 2 loại 21.10 - 21.11 00 Tương tác",
+      "status": "ACTIVE",
+      "budget": 150000,
+      "spend": 119244,
+      "messages": 5,
+      "purchases": 0
+    },
+    {
+      "id": "120257627231560550",
+      "name": "ildong xanh + môrka 21.10 - 21.11 - nhận biết",
+      "status": "ACTIVE",
+      "budget": 30000,
+      "spend": 33202,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257627707250550",
+      "name": "sohaco 21.10 - 21.11.2026",
+      "status": "ACTIVE",
+      "budget": 60000,
+      "spend": 56635,
+      "messages": 5,
+      "purchases": 0
+    },
+    {
+      "id": "120257655713490550",
+      "name": "Belamy Ngay hoi 24.10 - tuong tac",
+      "status": "ACTIVE",
+      "budget": 0,
+      "spend": 51885,
+      "messages": 1,
+      "purchases": 0
+    },
+    {
+      "id": "120257655938800550",
+      "name": "Bellamy branday 24.10 -  nhận biết",
+      "status": "ACTIVE",
+      "budget": 0,
+      "spend": 67407,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257670827580550",
+      "name": "QC video belamy 24/10",
+      "status": "ACTIVE",
+      "budget": 0,
+      "spend": 99706,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257670851080550",
+      "name": "Big Sale cuối T10 2026 - nhận biết",
+      "status": "ACTIVE",
+      "budget": 50000,
+      "spend": 32766,
+      "messages": 0,
+      "purchases": 0
+    },
+    {
+      "id": "120257672382500550",
+      "name": "Big Sale Cuối T100.2026 Tương tác",
+      "status": "ACTIVE",
+      "budget": 100000,
+      "spend": 100000,
+      "messages": 8,
+      "purchases": 0
+    }
+  ]
+}
